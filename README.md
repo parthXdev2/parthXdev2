@@ -1,4 +1,3 @@
-<img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h1>Hi I'm Parth Sharma 👋</h1>
 
 
