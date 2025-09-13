@@ -2,9 +2,8 @@
 
 
 
-
 # 💫 About Me:
-🔭 I’m currently working on Advanced Backend<br>👯 I’m looking to collaborate on Full Stack Projects<br>🌱 I’m currently learning NextJS<br>💬 Ask me about Full Stack Development<br>⚡ Fun fact - I'm Iron Man 
+🔭 I’m currently working on ReactJS<br>🌱 I’m currently learning Full Stack Development <br>💬 Ask me about Full Stack Development<br>⚡ Fun fact - I'm Iron Man 
 
 
 # 💻 Tech Stack:
